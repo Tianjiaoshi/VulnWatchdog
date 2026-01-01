@@ -16,7 +16,7 @@ ENABLE_NOTIFY=True
 NOTIFY_TYPE='feishu'
 
 # 是否启用GPT功能进行漏洞分析
-ENABLE_GPT=True
+ENABLE_GPT=False
 
 # GPT模型名称,使用Gemini 2.0 Flash版本
 GPT_MODEL='gemini-2.0-flash'
